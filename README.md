@@ -1,7 +1,7 @@
 
 # StepFly阶跃云机场官方地址(2026年9月17日更新)
 StepFly阶跃云机场官网地址</br>
-官方地址：[stepfly.space](https://stepfly.space/#/register?invite_code=5tZMbsC1)</br>
+官方地址：[stepfly.space](https://to.iix.im/sf01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
