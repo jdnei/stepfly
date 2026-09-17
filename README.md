@@ -33,6 +33,6 @@ StepFly 阶跃云提供全球多地区节点，采用 Cloudflare/CDN 与聚合�
 #### 1.晚高峰测速表现
 ![image](https://github.com/jdnei/stepfly/blob/main/stepfly/3489527398475298speed.png?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](https://github.com/jdnei/stepfly/blob/main/stepfly/3489527398475298speed.png?raw=ture)</br>  
+![image](https://github.com/jdnei/stepfly/blob/main/stepfly/9052809348509test.png?raw=ture)</br>  
 #### 3.落地入口分析
 ![image](https://github.com/jdnei/stepfly/blob/main/stepfly/4305280498502ana.png?raw=ture)</br>
