@@ -31,8 +31,8 @@ StepFly 阶跃云提供全球多地区节点，采用 Cloudflare/CDN 与聚合�
 | 定制节点 | **¥999/年** | 年付 | **约9.8TB** | **5 Gbps** | **999台** | 支持按指定国家/地区定制机房或家庭宽带节点，可提供私有独享节点及共享公共节点，具体需求可提交工单 | 按业务需求定制 | 可定制指定国家/地区 | 私有独享 / 共享公共节点可选 | 以定制服务规则为准 |
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/stepfly/blob/main/stepfly/3489527398475298speed.png?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/stepfly/blob/main/stepfly/3489527398475298speed.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/stepfly/blob/main/stepfly/4305280498502ana.png?raw=ture)</br>
