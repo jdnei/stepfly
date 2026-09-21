@@ -13,9 +13,9 @@ StepFly阶跃云机场官网地址</br>
 5tZMbsC1
 ```
 ## 优惠码/折扣码
-`8折`
+`6.5折`
 ```bash
-stepfly
+stepfly77
 ```
 ## 简介
 StepFly（阶跃云）是一家主打高性价比与多地区节点的中转机场，支持 VLESS、AnyTLS 等协议，并兼容 Shadowrocket、Clash、Sing-box、V2rayN 等常见客户端。官网目前提供香港、日本、美国等多地区线路及多档流量套餐。
