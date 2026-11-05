@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-# آدرس رسمی VPN استپ‌فلای (StepFly) - به‌روزرسانی ۲ نوامبر ۲۰۲۶
-
+# آدرس رسمی VPN استپ‌فلای (StepFly) -(به‌روزرسانی 4 نوامبر 2026)
 وب‌سایت رسمی VPN استپ‌فلای (StepFly)<br>
 آدرس رسمی: [stepfly.space](https://to.iix.im/sf01)<br>
 
