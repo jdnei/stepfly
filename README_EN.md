@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# StepFly VPN Official Website (Updated November 9, 2026)
+# StepFly VPN Official Website (Updated November 10, 2026)
 
 StepFly VPN Official Website<br>
 Official Address: [stepfly.space](https://to.iix.im/sf01)<br>
